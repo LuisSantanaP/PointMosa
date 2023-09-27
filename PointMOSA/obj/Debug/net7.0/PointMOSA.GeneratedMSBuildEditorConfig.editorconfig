@@ -9,37 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PointMOSA
 build_property.RootNamespace = PointMOSA
-build_property.ProjectDir = c:\Users\LEgiz\Documents\POOII\Point_MOSA\PointMOSA\
+build_property.ProjectDir = C:\Users\LEgiz\Documents\POOII\Point_MOSA\PointMOSA\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\LEgiz\Documents\POOII\Point_MOSA\PointMOSA
+build_property.MSBuildProjectDirectory = C:\Users\LEgiz\Documents\POOII\Point_MOSA\PointMOSA
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Home/Index.cshtml]
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Home/Carrito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJyaXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Home/CrearPerfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhclBlcmZpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Home/Privacy.cshtml]
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Home/ListProductos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0UHJvZHVjdG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Shared/Error.cshtml]
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Home/Tiendas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaWVuZGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/_ViewImports.cshtml]
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/_ViewStart.cshtml]
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Shared/_Layout.cshtml]
+[C:/Users/LEgiz/Documents/POOII/Point_MOSA/PointMOSA/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-03v54yizxk

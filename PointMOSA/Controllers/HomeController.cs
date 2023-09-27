@@ -23,6 +23,21 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult Tiendas()
+    {
+        return View();
+    }
+
+    public IActionResult CrearPerfil()
+    {
+        return View();
+    }
+    
+    public IActionResult Carrito()
+    {
+        return View();
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

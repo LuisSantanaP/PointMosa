@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "Crear Perfil";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form asp-asp-controller="Home" asp-action="CrearPerfil">
+
+   <div class="mb-3">
+        <label for="Usuario" class="form-label">Usuario</label>
+        <input type="text" class="form-control" id="Usuario" name="usuario" placeholder="Escriba el nombre de Usuario" />
+    </div>
+
+   <div class="mb-3">
+        <label for="Correo" class="form-label">Correo</label>
+        <input type="email" class="form-control" id="Correo" name="Correo" placeholder="Escriba el Correo" />
+    </div>
+
+       <div class="mb-3">
+        <label for="Contraseña" class="form-label">Contraseña</label>
+        <input type="password" class="form-control" id="Contraseña" name="Contraseña" placeholder="Escriba la Contraseña" />
+    </div>
+
+<button type="submit" class="btn btn-primary">Guardar</button>
+<button type="submit" class="btn btn-secundary">Cancelar</button>
+
+</form>

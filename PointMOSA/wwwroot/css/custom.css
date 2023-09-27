@@ -1,0 +1,26 @@
+#foto
+{
+    width: 100px;
+}
+#fotoHEB
+{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+}
+#fotoSoriana
+{
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+}
+#fotoWalmart
+{
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+}
